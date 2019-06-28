@@ -1,3 +1,7 @@
 que mas
 nada :D
+<<<<<<< HEAD
 c:
+=======
+kiuvo xD 
+>>>>>>> 189b4144f3c5709508ff14c5ac2c8c9dcbdef420
